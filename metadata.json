@@ -1,0 +1,6 @@
+{
+  "name": "Aura AI",
+  "description": "Premium AI assistant powered by Google Gemini for high-fidelity conversation and creative image generation, integrated with Supabase secure cloud synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
